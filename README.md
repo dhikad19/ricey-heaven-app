@@ -1,6 +1,6 @@
 ## Ricey Heaven App
 
-Front-end web for selling fried rice food with smooth scroll and full responsive.
+Front-end web for selling fried rice food with smooth scroll and full responsive web.
 
 ## This App Using
 
@@ -11,4 +11,4 @@ Front-end web for selling fried rice food with smooth scroll and full responsive
 
 ## Demo
 
-![ezgif com-gif-maker(1)](https://user-images.githubusercontent.com/90226201/134380403-26caf70b-b579-419f-9a8b-74e121d60dd9.gif)
+![riceyku](https://user-images.githubusercontent.com/90226201/134623386-6933a802-0479-418f-9d17-e7b02cdd34bf.gif)
