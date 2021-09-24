@@ -11,4 +11,4 @@ Front-end web for selling fried rice food with smooth scroll and full responsive
 
 ## Demo
 
-![riceyku](https://user-images.githubusercontent.com/90226201/134623386-6933a802-0479-418f-9d17-e7b02cdd34bf.gif)
+![riceyku](https://user-images.githubusercontent.com/90226201/134623994-57cced40-73a3-47c9-878d-7148f022b3c1.gif)
